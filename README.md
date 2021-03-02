@@ -1,2 +1,3 @@
-# rx-go
-Rx for Golang
+# Rx-Go
+
+Go's implementation for Rx
